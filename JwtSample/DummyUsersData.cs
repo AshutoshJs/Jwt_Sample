@@ -9,6 +9,14 @@
         new Users()
         {
             UserId = 1,
+            Email = "test",
+            Password = "test",
+            Role = "Admin",
+            Department = "IT"
+        },
+        new Users()
+        {
+            UserId = 1,
             Email = "admin@example.com",
             Password = "admin123",
             Role = "Admin",

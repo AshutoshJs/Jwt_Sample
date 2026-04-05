@@ -53,4 +53,39 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
+# Angular specific caches and generated files
+/.angular/cache
+
+# Other common files
+*.log
+*.bak
+*.swp
+*.swo
+*.suo
 *.vs
+\.vs

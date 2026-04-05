@@ -1,5 +1,8 @@
 
+using System.Text;
 using JwtSample.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
 
 namespace JwtSample
 {
@@ -18,7 +21,27 @@ namespace JwtSample
 
             builder.Services.AddScoped<ITokenGeneratorServices, TokenGeneratorService>();
 
-            //builder.Services.AddAuthentication("test").AddJwtBearer
+            //builder.Services.AddAuthentication("Bearer").AddJwtBearer(options =>
+            //new JwtBearerOptions
+            //{
+            //    RequireHttpsMetadata=false,
+            //    Audience = conf,
+            //    Issuer
+            //});
+
+            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+            {
+                options.RequireHttpsMetadata = false;
+                options.TokenValidationParameters = new TokenValidationParameters()
+                {
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Secret"])),
+                    ValidIssuer = builder.Configuration["Jwt:Issuer"],
+                    ValidAudience = builder.Configuration["Jwt:Audience"],
+                    ValidateIssuer = true,
+                    ValidateAudience = true,
+                    ClockSkew = TimeSpan.Zero
+                };
+            });
 
             var app = builder.Build();
 
@@ -30,7 +53,7 @@ namespace JwtSample
             }
 
             app.UseHttpsRedirection();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
 
