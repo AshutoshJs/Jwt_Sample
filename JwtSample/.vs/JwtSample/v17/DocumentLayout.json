@@ -1,12 +1,190 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|e:\\projects_ash\\my_githubrepositories_work\\jwt_sample\\jwtsample\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|e:\\projects_ash\\my_githubrepositories_work\\jwt_sample\\jwtsample\\services\\itokengeneratorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|solutionrelative:services\\itokengeneratorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|e:\\projects_ash\\my_githubrepositories_work\\jwt_sample\\jwtsample\\services\\tokengeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|solutionrelative:services\\tokengeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|e:\\projects_ash\\my_githubrepositories_work\\jwt_sample\\jwtsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|e:\\projects_ash\\my_githubrepositories_work\\jwt_sample\\jwtsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|e:\\projects_ash\\my_githubrepositories_work\\jwt_sample\\jwtsample\\dummyusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|solutionrelative:dummyusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|e:\\projects_ash\\my_githubrepositories_work\\jwt_sample\\jwtsample\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|e:\\projects_ash\\my_githubrepositories_work\\jwt_sample\\jwtsample\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|e:\\projects_ash\\my_githubrepositories_work\\jwt_sample\\jwtsample\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|e:\\projects_ash\\my_githubrepositories_work\\jwt_sample\\jwtsample\\jwtsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43DCD493-61B1-4167-9E2C-CB9A1C4B9DF7}|JwtSample.csproj|solutionrelative:jwtsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITokenGeneratorServices.cs",
+              "DocumentMoniker": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Services\\ITokenGeneratorServices.cs",
+              "RelativeDocumentMoniker": "Services\\ITokenGeneratorServices.cs",
+              "ToolTip": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Services\\ITokenGeneratorServices.cs",
+              "RelativeToolTip": "Services\\ITokenGeneratorServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:50:26.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenGeneratorService.cs",
+              "DocumentMoniker": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Services\\TokenGeneratorService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenGeneratorService.cs",
+              "ToolTip": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Services\\TokenGeneratorService.cs",
+              "RelativeToolTip": "Services\\TokenGeneratorService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:49:09.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DummyUsersData.cs",
+              "DocumentMoniker": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\DummyUsersData.cs",
+              "RelativeDocumentMoniker": "DummyUsersData.cs",
+              "ToolTip": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\DummyUsersData.cs",
+              "RelativeToolTip": "DummyUsersData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:48:02.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T11:14:40.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:02:30.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:03:00.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:54:19.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Users.cs",
+              "RelativeDocumentMoniker": "Users.cs",
+              "ToolTip": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Users.cs",
+              "RelativeToolTip": "Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:50:13.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:02:34.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtSample",
+              "DocumentMoniker": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\JwtSample.csproj",
+              "RelativeDocumentMoniker": "JwtSample.csproj",
+              "ToolTip": "E:\\Projects_ash\\My_GitHubRepositories_work\\Jwt_Sample\\JwtSample\\JwtSample.csproj*",
+              "RelativeToolTip": "JwtSample.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-05T10:02:04.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

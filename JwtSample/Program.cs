@@ -1,4 +1,6 @@
 
+using JwtSample.Services;
+
 namespace JwtSample
 {
     public class Program
@@ -13,6 +15,10 @@ namespace JwtSample
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddScoped<ITokenGeneratorServices, TokenGeneratorService>();
+
+            //builder.Services.AddAuthentication("test").AddJwtBearer
 
             var app = builder.Build();
 
